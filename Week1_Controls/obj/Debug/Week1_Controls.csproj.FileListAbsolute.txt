@@ -1,0 +1,16 @@
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.csproj.AssemblyReference.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.csproj.SuggestedBindingRedirects.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\MainWindow.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\App.g.cs
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls_MarkupCompile.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls_MarkupCompile.lref
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\bin\Debug\Week1_Controls.exe.config
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\bin\Debug\Week1_Controls.exe
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\bin\Debug\Week1_Controls.pdb
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\MainWindow.baml
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.g.resources
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.Properties.Resources.resources
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.csproj.GenerateResource.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.csproj.CoreCompileInputs.cache
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.exe
+C:\Users\IT\Documents\Wheeler's competencies\Desktop\MyApps\Week1_Controls\Week1_Controls\obj\Debug\Week1_Controls.pdb
